@@ -17,8 +17,7 @@ Make sure you have the following installed:
 Node.js (v18 or above)
 npm or yarn
 📥 Installation
-# Clone the repository
-git clone git@github.com:DEEPAKbisht96/odgoods-frontend.git
+# Clone the repositoryt
 cd od-goods/frontend
 
 # Install dependencies
